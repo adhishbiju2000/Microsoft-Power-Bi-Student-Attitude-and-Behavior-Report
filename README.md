@@ -33,7 +33,13 @@ The objective of this project is to analyze and understand various factors influ
 - Preference Analysis: Visualize data on preferred study environments and part-time job participation to see how these preferences correlate with academic success and satisfaction.
 - Stress and Satisfaction: Use charts to display the relationship between stress levels, financial status, and overall satisfaction with the degree program.
 
-# So here we Analysis the Student Attitude and Behavior data on the Baics of the Department such as B.com Accounting and Finance, B.com ISM (Information System and Mangement),BCA (Bachelor of Computer Applications), and the last Commerce.
+# We Analysis the Student Attitude and Behavior data on the Baics of the Department 
+
+## Such as 
+- B.com Accounting and Finance
+- B.com ISM (Information System and Mangement)
+- BCA (Bachelor of Computer Applications)
+- Commerce.
 
 
 ## Power Bi Analysed image of B.com Accounting and Finance.
