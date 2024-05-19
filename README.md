@@ -4,6 +4,14 @@
 
 The objective of this project is to analyze and understand various factors influencing student attitudes, behaviors, and academic performance. By leveraging Microsoft Power BI, we aim to visualize and interpret data to uncover patterns and insights that can guide educational strategies and support services.
 
+
+### The overall Power Bi Dashboard image on the Student Attitude and Behavior and Data set.
+
+![Overall image](https://github.com/adhishbiju2000/Microsoft-Power-Bi-Student-Attitude-and-Behavior-Report/assets/156699315/928a42b6-d8bf-4033-9d4c-603a008d4882)
+
+
+
+
 ## Goals and Objectives
 - Analyze academic performance: Identify correlations with the college marks and other variables like study time, hobbies, and stress levels.
 - Understand student preferences: Explore how preferences for study environments and part-time jobs impact academic success and career aspirations.
